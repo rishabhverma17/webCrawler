@@ -8,7 +8,7 @@ Python based WebCrawler
 
 
 ## Web Crawling Results
-![WebCrawling](https://github.com/rishabhverma17/webCrawler).png)
+![WebCrawling](https://github.com/rishabhverma17/webCrawler/blob/master/WebCrawling.png)
 
 ## Web Crawling with Indexing Results
 ![Webcrawling And Idexing](https://github.com/rishabhverma17/webCrawler/blob/master/WebCraling%20and%20Indexing.png)
