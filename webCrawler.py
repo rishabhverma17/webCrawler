@@ -1,3 +1,7 @@
+'''
+	Python3 based Web Crawler.
+	Author : Rishabh Verma
+'''
 import urllib.request
 
 def get_page(url):
