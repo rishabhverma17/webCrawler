@@ -1,5 +1,5 @@
 # webCrawler
-Python based WebCrawler
+Python based WebCrawler with Indexing the keyword from webpages it crawled.
 
 ## How to run
 Just call this Procedure :
